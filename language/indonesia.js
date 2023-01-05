@@ -1713,15 +1713,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ !sound70
 
 ╭─❒ 「 TqTo 」 
-│○ My God
-│○ My Parents
-│○ Fatih A.
-│○ Ferdi
-│○ DikaArdnt
-│○ Mhankbarbar
-│○ Nurutomo
-│○ Rashid
-│○ ZeeoneOfc
+│○ Aditya Okta Farabi
 │○ Penyedia Module
 ╰❒ And All Support
     `
@@ -1739,7 +1731,7 @@ exports.rules = (prefix) => {
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
+➡️ Script ini bisa kalian dapatkan di YouTube Ditz Botz
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
