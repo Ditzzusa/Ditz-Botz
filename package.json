@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot-Md",
+  "name": "Ditz Botz",
   "version": "1.6.5",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
+  "description": "Ditz Botz, Only update in YouTube Ditz Mods",
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Ditzz",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
